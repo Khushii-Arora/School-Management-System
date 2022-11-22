@@ -1,0 +1,11 @@
+School Management System in Java
+
+
+username		password
+
+school			school
+
+This school management system is brought to you by code-projects.org
+Feel free to use it and remember don't try to upload it on any other websites. This may land you in legal trouble.
+
+But you can use it for your assignment and coursework submissions.
